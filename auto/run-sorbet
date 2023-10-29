@@ -1,0 +1,7 @@
+#! /bin/bash -eu
+#
+# Run the tests
+
+# The extra flags to sorbet are a workaround to allow be to declare type hints for constants in the RBI file
+
+$(dirname $0)/with-ruby srb tc

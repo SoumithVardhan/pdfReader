@@ -1,0 +1,9 @@
+doc
+pkg
+Gemfile.lock
+Gemfile-legacy.lock
+.idea
+.rbx
+*.gem
+.DS_Store
+tools/profiles

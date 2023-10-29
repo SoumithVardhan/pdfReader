@@ -1,0 +1,514 @@
+---
+data/20070313 - 2nd Laptop Battery.pdf:
+  :bytes: 27832
+  :md5: be3427795b673615e42f89b9043d44d9
+data/TJ_and_char_spacing.pdf:
+  :bytes: 905
+  :md5: 8d2a7d485f95f3bc45187c1cf38330c2
+data/TJ_starts_with_a_number.pdf:
+  :bytes: 13119
+  :md5: 83501b5c507cdddbd9283ad2003c885b
+data/adobe_sample.pdf:
+  :bytes: 378345
+  :md5: 07ab19345bfd5d22af6301a5751f94c2
+data/all_page_boxes_exist.pdf:
+  :bytes: 1405798
+  :md5: '0985d3e0e4f5b4ec40adb86bc05d7fd3'
+data/ascii85_filter.pdf:
+  :bytes: 21288
+  :md5: 49502f60a3f058e20d0564312c9dda2b
+data/cairo-basic.pdf:
+  :bytes: 9659
+  :md5: 88be82e60534bfa5f85b9ec0697ec6d6
+data/cairo-multiline.pdf:
+  :bytes: 6199
+  :md5: a4cc434461064dd84a0c3ccc4f473fc0
+data/cairo-unicode-short.pdf:
+  :bytes: 6146
+  :md5: 1a14e09a6c7846b9ea0e619e064403dc
+data/cairo-unicode.pdf:
+  :bytes: 137432
+  :md5: c9ad1b69ba65c4f3a6678f5a3363580c
+data/clearscan-with-image-removed.pdf:
+  :bytes: 22495
+  :md5: e23e6771ff494e4c16a4c58a72c36aea
+data/clearscan.pdf:
+  :bytes: 13956
+  :md5: d7b929232c52193d02dcc5e7a4bee015
+data/cmap_with_bfchar.txt:
+  :bytes: 485
+  :md5: a8a6c777ef29e7e9011edea8ff1f44f0
+data/cmap_with_bfrange.txt:
+  :bytes: 3098
+  :md5: 3546b23adc960d913b60386ed86d2f00
+data/cmap_with_bfrange_four.txt:
+  :bytes: 338
+  :md5: 2b722bf40b4e3606a09fd0ada4c50430
+data/cmap_with_bfrange_three.txt:
+  :bytes: 1890
+  :md5: 1d1ec5fc186ae22063c5fa756cb67b9a
+data/cmap_with_bfrange_two.txt:
+  :bytes: 6570
+  :md5: 7434fe5e0d1c80fcda1cbd87d523d99a
+data/cmap_with_large_bfrange.txt:
+  :bytes: 364
+  :md5: b9247f9e5b76fb174d11acf4000db656
+data/cmap_with_ligatures.txt:
+  :bytes: 1480
+  :md5: 4c37d2d0d10ec44e688f4161b2794a1b
+data/cmap_with_multiple_surrogate_pairs.txt:
+  :bytes: 1043
+  :md5: 90ade19ffdb30e65f1571b00ad1c1655
+data/cmap_with_surrogate_pairs.txt:
+  :bytes: 1340
+  :md5: c0963a9329c749f28f070b71b21b656b
+data/column_integration.pdf:
+  :bytes: 57433
+  :md5: c0b40f59ad663b80c5a234174639f680
+data/content_stream_as_array.pdf:
+  :bytes: 121168
+  :md5: 1890a5daee3dff7bd6c79fee537702cd
+data/content_stream_begins_with_newline.pdf:
+  :bytes: 910
+  :md5: 6c447a7c6c99eb2b984ab2fd4c8d9c61
+data/content_stream_cr_only.pdf:
+  :bytes: 702
+  :md5: 3253e3654b2375bdd732d0dd1c096db9
+data/content_stream_missing_final_operator.pdf:
+  :bytes: 46799
+  :md5: 8b3d2706526dcf684dad80b53bf6dc94
+data/content_stream_trailing_whitespace.pdf:
+  :bytes: 55688
+  :md5: 5dad57e5cae55c8b305a0853c8e3d067
+data/content_stream_with_length_as_ref.pdf:
+  :bytes: 867
+  :md5: 284d14a6770e75f4a8eb79a137540002
+data/content_stream_with_length_as_ref_and_windows_breaks.pdf:
+  :bytes: 867
+  :md5: 461eeb424d0d39434fcebb5635b16cdf
+data/cross_ref_stream.pdf:
+  :bytes: 1218187
+  :md5: d7a93c4f9b70145db05c0bbacbed7f44
+data/deflated_with_predictors.dat:
+  :bytes: 662
+  :md5: b347e3e2b091f3a4531e35cc65e52fa3
+data/deflated_with_predictors_result.dat:
+  :bytes: 1720
+  :md5: 808cebf05ab245e7248b8a5a7b7b3383
+data/difference_table.pdf:
+  :bytes: 1093
+  :md5: e4786a50e8840b513a1907f7b176d9f4
+data/difference_table2.pdf:
+  :bytes: 6741
+  :md5: 195ac8f8f7270b39a2da2f682cde2416
+data/difference_table_encrypted.pdf:
+  :bytes: 1442
+  :md5: 142596eae43ecd6bad12ccfd3d0921d1
+data/distiller_unicode.pdf:
+  :bytes: 273800
+  :md5: a3c22cb58416c789dcc6dc60a1270209
+data/dutch.pdf:
+  :bytes: 14163
+  :md5: cbe0d3075d4474a221cd0b3800c5a0e4
+data/encrypted_and_xref_stream.pdf:
+  :bytes: 1197
+  :md5: 6bba66a160f820798385a3d1e8e156d2
+data/encrypted_version1_revision2_128bit_rc4_blank_user_password.pdf:
+  :bytes: 15674
+  :md5: 88a9b78341fa55879fa94930bd4d33af
+data/encrypted_version1_revision2_128bit_rc4_no_doc_id.pdf:
+  :bytes: 1152
+  :md5: 8d2180b1c694dfe729ff8a8f6f77bb08
+data/encrypted_version1_revision2_40bit_rc4_user_pass_apples.pdf:
+  :bytes: 22529
+  :md5: 9ad59fb12b9bc50e1fe73e5be0173bff
+data/encrypted_version2_revision3_128bit_rc4_blank_user_pass.pdf:
+  :bytes: 18445
+  :md5: 32af1167d842ae937befa4de24bc80b5
+data/encrypted_version2_revision3_128bit_rc4_user_pass_apples.pdf:
+  :bytes: 19262
+  :md5: 127b2384faf0e7cd13725f130dc5c959
+data/encrypted_version4_revision4_128bit_aes_user_pass_apples_enc_metadata.pdf:
+  :bytes: 22916
+  :md5: d8f24a2d511a8bdeb207444b24e1feae
+data/encrypted_version4_revision4_128bit_aes_user_pass_apples_unenc_metadata.pdf:
+  :bytes: 22927
+  :md5: 34b9df213cda366a570e8fce544ba0e3
+data/encrypted_version4_revision4_128bit_rc4_user_pass_apples_enc_metadata.pdf:
+  :bytes: 22600
+  :md5: 9d7b13af0cc56e43807fe9d601f69be4
+data/encrypted_version4_revision4_128bit_rc4_user_pass_apples_unenc_metadata.pdf:
+  :bytes: 22633
+  :md5: e0877c01f132e40d451b3c3d8a7acce7
+data/encrypted_version5_revision5_256bit_aes_user_pass_apples_enc_metadata.pdf:
+  :bytes: 148015
+  :md5: 6affb89e76bff453a00f0b314aa7f6d6
+data/encrypted_version5_revision5_256bit_aes_user_pass_apples_unenc_metadata.pdf:
+  :bytes: 147997
+  :md5: 2954f1c67b1510acce653b4effa21f39
+data/encrypted_version5_revision6_256bit_aes_user_pass_apples_enc_metadata.pdf:
+  :bytes: 23273
+  :md5: afb2de4ebe4bcdfbded287bbbdd7f51b
+data/encrypted_version5_revision6_256bit_aes_user_pass_apples_unenc_metadata.pdf:
+  :bytes: 23286
+  :md5: ce451e03d0044f412c76a5fc5368f7af
+data/extended_eof.pdf:
+  :bytes: 61721
+  :md5: 02bd4cfbc79b4a295754fda2705b6181
+data/form_xobject.pdf:
+  :bytes: 1294
+  :md5: db778dde9c16993194dc50f1222b52ab
+data/form_xobject_more.pdf:
+  :bytes: 22055
+  :md5: 1fcbd5a3f7429dd224871d8d9d7830a7
+data/form_xobject_recursive.pdf:
+  :bytes: 1454
+  :md5: 24cbbe4f91c23b37f9a1ddac81bd3a39
+data/hard_lock_under_osx.pdf:
+  :bytes: 4545
+  :md5: 365e2076036b5e2445d1dcde13d6dbb6
+data/hello-world.deflate:
+  :bytes: 44
+  :md5: 81bf56d574794df545f2403cfedfa4cc
+data/hello-world.gz:
+  :bytes: 55
+  :md5: 8af940b62b3afe47c87547e26396b5ed
+data/hello-world.z:
+  :bytes: 50
+  :md5: 25f1f816ea6e6f42414cf23551acc2c2
+data/indirect_kids_array.pdf:
+  :bytes: 951
+  :md5: 7cb585bfe3f5266ed50bd205422953fd
+data/indirect_mediabox.pdf:
+  :bytes: 1089
+  :md5: 49a6957e4ecb6da14f4ab546909389d5
+data/indirect_page_count.pdf:
+  :bytes: 957
+  :md5: a84031df45b2431aabd2ca3107321c08
+data/indirect_xobject.pdf:
+  :bytes: 31015
+  :md5: a95d76b2b6d22f62995dd178666a692a
+data/inherited_page_attributes.pdf:
+  :bytes: 13520
+  :md5: b260a5d218771eaa0565ed2d75146393
+data/inherited_trimbox.pdf:
+  :bytes: 1139
+  :md5: b3eab8b6fb964b0c8e63d1b75069a6c8
+data/inline_data_followed_by_ei.pdf:
+  :bytes: 1054
+  :md5: 1189782791340a1910d80eae751728bc
+data/inline_image.pdf:
+  :bytes: 30684
+  :md5: b02bfbb6b0ee7c7d7df1b5f0c1f198c1
+data/inline_image_single_line_content_stream.pdf:
+  :bytes: 130786
+  :md5: '096fb28baf29a716066768cb31182b73'
+data/invalid/broken_string.pdf:
+  :bytes: 929
+  :md5: f717634f2e419e496e1e93a0cb5b7d18
+data/invalid/content_stream_refers_to_invalid_font.pdf:
+  :bytes: 598
+  :md5: e4a711b9d2fbc3ebe0e16c7498563521
+data/invalid/content_stream_wrong_args.pdf:
+  :bytes: 378345
+  :md5: 8da6f39e6f1c557c8514f1e124ea137d
+data/invalid/data.csv:
+  :bytes: 26
+  :md5: 7168179491824d651a304cbb83c16964
+data/invalid/gh-217.pdf:
+  :bytes: 108807
+  :md5: 3739eb2731370bd7923c3f418c0bd73e
+data/invalid/gh-222.pdf:
+  :bytes: 108807
+  :md5: dbe939f42fdfc4aeda52fc7c5809052e
+data/invalid/gh-223.pdf:
+  :bytes: 108807
+  :md5: 227b93c7734118d3147e9ec6e4950653
+data/invalid/gh-224.pdf:
+  :bytes: 108807
+  :md5: 3e5a57f61754826fbbbbd653e73167dc
+data/invalid/gh-227.pdf:
+  :bytes: 108807
+  :md5: 73a3be1957f118f36fb92d677f962a2d
+data/invalid/gh-228.pdf:
+  :bytes: 108807
+  :md5: 0a58afacb9d6f43cbf9e1afaac934b87
+data/invalid/gh-229.pdf:
+  :bytes: 89283
+  :md5: e70783e6b59764932e745f55e2647ff9
+data/invalid/gh-230.pdf:
+  :bytes: 89283
+  :md5: ddc6c8bb189c23a24937dcc7a1154bd1
+data/invalid/gh-231.pdf:
+  :bytes: 89283
+  :md5: '024844d3602ad508e57b9ca5602a913c'
+data/invalid/gh-232.pdf:
+  :bytes: 89283
+  :md5: e5c8f6e8e2a98edf78a0a4a2c87aa6b3
+data/invalid/gh-234.pdf:
+  :bytes: 108807
+  :md5: bfa0291807642919d6bf62de68044fef
+data/invalid/gh-235.pdf:
+  :bytes: 108807
+  :md5: e594ba3eb27a8aca07f023cd161faa50
+data/invalid/gh-236.pdf:
+  :bytes: 108807
+  :md5: a300e41135e95dbd4608109ba9703328
+data/invalid/gh-237.pdf:
+  :bytes: 89283
+  :md5: 561700c4ae0936f4822531466762d875
+data/invalid/gh-238.pdf:
+  :bytes: 108807
+  :md5: 5c885f481556eb84f1ee858d105401a1
+data/invalid/gh-239.pdf:
+  :bytes: 89283
+  :md5: 1088d8fbb4adada3ed14fb8bf36434f0
+data/invalid/gh-240.pdf:
+  :bytes: 89283
+  :md5: 2b63985a234cacf82de883c0d0495eef
+data/invalid/gh-241.pdf:
+  :bytes: 6332178
+  :md5: 6286a6ad6ceb676f9a1ae955432e7279
+data/invalid/gh-242.pdf:
+  :bytes: 6332178
+  :md5: f37d3261253f2c3a129baad8407397a8
+data/invalid/gh-243.pdf:
+  :bytes: 1093
+  :md5: b05f1de30a2b356c9fe807cf59452ee8
+data/invalid/gh-244.pdf:
+  :bytes: 1093
+  :md5: dfd286c1cd402c4eb77a869aaf370c62
+data/invalid/gh-245.pdf:
+  :bytes: 19262
+  :md5: de39ddcfe81cedb111304ad6988a2484
+data/invalid/invalid_pages.pdf:
+  :bytes: 108807
+  :md5: 345670e7d5533a831184603d31dfc2bb
+data/invalid/linearized_bad_xref_offset.pdf:
+  :bytes: 1133257
+  :md5: 245e575d617b8fe69be7e2be382a7730
+data/invalid/missing_pages_dict.pdf:
+  :bytes: 280
+  :md5: d2153a115692da4fd5937b1eec842379
+data/invalid/negative-xref-offset.pdf:
+  :bytes: 6147
+  :md5: f6be07ae5b4d7e9157914dd9d6b29c7f
+data/invalid/no_eof.pdf:
+  :bytes: 9652
+  :md5: a641e07a03b3cce7d6f43f5fe7f8695b
+data/invalid/no_trailer.pdf:
+  :bytes: 9599
+  :md5: f67206cde8a4f97924a2c93d5b8c40ad
+data/invalid/page_reference_is_not_a_dict.pdf:
+  :bytes: 108807
+  :md5: 7a6da0a240b4c3dea52308502b051cb5
+data/invalid/stream_missing_endobj.pdf:
+  :bytes: 998
+  :md5: 624687838f3445a4bd8a1f8dafe65810
+data/invalid/trailer_is_not_a_dict.pdf:
+  :bytes: 9651
+  :md5: 2cf861306cb9d19e926a079f54ad4e19
+data/invalid/trailer_root_is_not_a_dict.pdf:
+  :bytes: 108807
+  :md5: e00b7fc6999ca722aa31d2bb90f1e5d0
+data/invalid/xref_offset_too_low.pdf:
+  :bytes: 1054
+  :md5: d3c06fd6d670b0bed3b6347b5c4561a2
+data/invisible.pdf:
+  :bytes: 14364
+  :md5: 563f7ec8eb2c4d54f00fd85d807580c0
+data/junk_prefix.pdf:
+  :bytes: 934
+  :md5: c03c9a96cdefa78c9475b619d87e39bf
+data/junk_prefix_1024.pdf:
+  :bytes: 1936
+  :md5: ebd3cdb031d14ab64056ad14e09b86b6
+data/kids-as-direct-objects.pdf:
+  :bytes: 1067
+  :md5: 90d7e0ac0b0f886ae062b9efa8f3afb6
+data/large_single_line_content_stream.pdf:
+  :bytes: 229020
+  :md5: 70f89c25291e4f01fff335188d7c1910
+data/ligature_integration_sample.pdf:
+  :bytes: 53472
+  :md5: 11c29d91e2b6a2ff00b75eb7417ca164
+data/lzw_compressed.dat:
+  :bytes: 238
+  :md5: 7c36794572f259c5201e4bd049c3742e
+data/lzw_compressed2.dat:
+  :bytes: 7279
+  :md5: 77d850609610846d06dac6b80b10c25a
+data/lzw_compressed_corrupt.dat:
+  :bytes: 238
+  :md5: 254d00a22e904863dee946a4da7eda68
+data/lzw_decompressed.dat:
+  :bytes: 347
+  :md5: 4abd51aa78c14ed837d834e181216787
+data/lzw_stream.pdf:
+  :bytes: 2351
+  :md5: f728d3746de95834d300480e17083b65
+data/mediabox_and_cropbox_are_references.pdf:
+  :bytes: 45683
+  :md5: bef53045134b504254688af70be78100
+data/mediabox_missing.pdf:
+  :bytes: 14875
+  :md5: 51560e94565ee1cd9583c388b5aa545a
+data/minimal-xref-1.pdf:
+  :bytes: 739
+  :md5: c9ef70bcf0d39ce90e993b6aec606b42
+data/minimal.pdf:
+  :bytes: 739
+  :md5: b5808604069f9f61d94e0660409616ba
+data/nested_form_xobject.pdf:
+  :bytes: 30365
+  :md5: 441fd2c734e81784d7db0a86bf4c11e5
+data/nested_form_xobject_another.pdf:
+  :bytes: 2157
+  :md5: 300ff8b1f047a6817d8b19355e3ed21b
+data/no_text_spaces.pdf:
+  :bytes: 2058403
+  :md5: f1167a44c687e6dc4fcffb451598c502
+data/octal101.pdf:
+  :bytes: 739
+  :md5: eb8d6048feb4512bef783eea6de27244
+data/octal74.pdf:
+  :bytes: 739
+  :md5: d30dfbc3a9d7799e0311cd59dfa2a6a5
+data/one-byte-identity.pdf:
+  :bytes: 13941
+  :md5: a5e0693ee17aa8e53e9a140e9b9ccf97
+data/oo3.pdf:
+  :bytes: 12247
+  :md5: 0c53ddbcb99c2e10d7b1622f14191b84
+data/openoffice-2.2.pdf:
+  :bytes: 37698
+  :md5: 125b59dcef55b80c10c68c1fc471e5df
+data/osx_print_unicode.pdf:
+  :bytes: 227782
+  :md5: 308474e0321e5801ecbfdfa59195ac8a
+data/outline.pdf:
+  :bytes: 6313
+  :md5: 95a4ebc34a521001125040afc146cd2e
+data/overlapping-chars-x-fake-bold.pdf:
+  :bytes: 1377
+  :md5: f53f3cbbaffffa5039408cb2e5a0a572
+data/overlapping-chars-xy-fake-bold.pdf:
+  :bytes: 1403
+  :md5: 2c9d673b612514e2a4f1be5cb11510a0
+data/override_inherited_attributes.pdf:
+  :bytes: 1140
+  :md5: d0d37dce31110dc5ba6b85d0c0dba608
+data/pages_object_missing_type.pdf:
+  :bytes: 892
+  :md5: 75b9eaa9e466e059d6a67c6bcd94e49c
+data/pdf-distiller.pdf:
+  :bytes: 121774
+  :md5: 94e458dbc3aa7e6890ecfcc5f553592a
+data/pdflatex.pdf:
+  :bytes: 160260
+  :md5: 7bdca05d8731da0ea7839b2649ef93c0
+data/pdfwriter-manual.pdf:
+  :bytes: 300276
+  :md5: 30674cfdaa3308b64e2fb926adc3214d
+data/portrait.pdf:
+  :bytes: 288466
+  :md5: dc2413fb949ee78fc1e2319ca4ffcd93
+data/prev0.pdf:
+  :bytes: 753
+  :md5: 5c729e47a5bd097d312df70f913c6349
+data/prince1.pdf:
+  :bytes: 679595
+  :md5: a6dff45e93532535321b76758676a23f
+data/prince2.pdf:
+  :bytes: 944243
+  :md5: 8722b6b2ce81f63df791a6826d4193f6
+data/rotate-180.pdf:
+  :bytes: 17738
+  :md5: 5ab145b4527aabb75532d9b990f6df0c
+data/rotate-270-then-undo-inside-bt.pdf:
+  :bytes: 1091
+  :md5: 1a27af6fc501499dc89f728db0526240
+data/rotate-90-then-undo-with-br-text.pdf:
+  :bytes: 1202
+  :md5: d86bb1a0cb9b2fdde5bb43d3f7cd1e9a
+data/rotate-90-then-undo.pdf:
+  :bytes: 1253
+  :md5: 198b5e4197643180a6d4e1659e7baf89
+data/rotate-then-undo.pdf:
+  :bytes: 1191
+  :md5: c14ac0c2669d63988c07c71f75c28b39
+data/rotated_text.pdf:
+  :bytes: 936
+  :md5: 86ba3d60315a0986c9a06d6d313dab6f
+data/screwey_xref_offsets.pdf:
+  :bytes: 1133257
+  :md5: 245e575d617b8fe69be7e2be382a7730
+data/space_after_eof.pdf:
+  :bytes: 908
+  :md5: 3589441ec8923a3f8cc7f2b0487c6571
+data/split_params_and_operator.pdf:
+  :bytes: 985
+  :md5: c2444799b8d17d9d11a2702fdd55b56c
+data/standard_font_with_a_difference.pdf:
+  :bytes: 993
+  :md5: 5e16bd7b80f97e0deea903cd9ea152c5
+data/standard_font_with_no_difference.pdf:
+  :bytes: 856
+  :md5: 1d59995aefe22d8a8859c1c217dddcc9
+data/stream-with-extra-byte.z:
+  :bytes: 516
+  :md5: cb7b8af4921811eb51d1d22a4194a6fe
+data/stream-with-indirect-filters.pdf:
+  :bytes: 1089
+  :md5: 1c3a3b5454d39a5ee6886ef3e81cc266
+data/surrogate_pair_integration_sample.pdf:
+  :bytes: 1210387
+  :md5: abc393e941d2aeb7a64f5e2ab1b58a92
+data/symbol.pdf:
+  :bytes: 1055
+  :md5: 57941286e6442f5c0b295611a99e0f56
+data/text_outside_cropbox_and_mediabox.pdf:
+  :bytes: 1388
+  :md5: 853edffb3c14d2e223e6f895e503097c
+data/textwrapcr.pdf:
+  :bytes: 739
+  :md5: 9700990dd8adb5d2bb83fc5f4af5c2ae
+data/textwrapcrlf.pdf:
+  :bytes: 739
+  :md5: aa1a41bcd5aaaeaa6d247e51dd853093
+data/textwraplf.pdf:
+  :bytes: 739
+  :md5: faefe55f50f9e3d32886da39e4cfdca9
+data/textwraplfcr.pdf:
+  :bytes: 739
+  :md5: a3d37d948a81cf019f757aba808e6aa0
+data/times-with-control-character.pdf:
+  :bytes: 904
+  :md5: 4bd7309a3f190ede68a88bb2be8bf237
+data/truetype-arial.pdf:
+  :bytes: 1387
+  :md5: 2b3e4ff85b618d1f4c6b3b5df2631ab0
+data/type1-arial.pdf:
+  :bytes: 1014
+  :md5: eb48405005f1265219c4c8759eafee32
+data/type3_font.pdf:
+  :bytes: 2203
+  :md5: ef2a3eb57d5996c4a33681e1aec98f2c
+data/type3_font_with_rare_font_matrix.pdf:
+  :bytes: 11541
+  :md5: '08f69084d72dabc5dfdcf5c1ff2a719f'
+data/vertical-text-in-identity-v.pdf:
+  :bytes: 9785
+  :md5: 8dba658e634fb19a66090607640540d1
+data/xref_subsections.pdf:
+  :bytes: 95030
+  :md5: a3822639a354f7a6443637ee27ffa39b
+data/zapf.pdf:
+  :bytes: 1075
+  :md5: b32fde3801069861ecb974cf7c825802
+data/zeroed_xref_entry.pdf:
+  :bytes: 955
+  :md5: c951b17cfca59178fee1447643b512be
+data/zlib_stream_issue.pdf:
+  :bytes: 68247
+  :md5: 744d2db962d2aeec04e00891b71b3d5c
